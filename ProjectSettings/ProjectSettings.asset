@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 3e8a15e603046984ba3c97ce54d8fef7
+  productGUID: a8b94d9eae601304d9fe82ed3d4f759c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: dcu_0913
+  productName: DCU0914
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -592,7 +592,22 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: GLTFAST;READY_PLAYER_ME
+    4: GLTFAST;READY_PLAYER_ME
+    7: GLTFAST;READY_PLAYER_ME
+    13: GLTFAST;READY_PLAYER_ME
+    14: GLTFAST;READY_PLAYER_ME
+    19: GLTFAST;READY_PLAYER_ME
+    21: GLTFAST;READY_PLAYER_ME
+    25: GLTFAST;READY_PLAYER_ME
+    27: GLTFAST;READY_PLAYER_ME
+    28: GLTFAST;READY_PLAYER_ME
+    29: GLTFAST;READY_PLAYER_ME
+    30: GLTFAST;READY_PLAYER_ME
+    31: GLTFAST;READY_PLAYER_ME
+    32: GLTFAST;READY_PLAYER_ME
+    33: GLTFAST;READY_PLAYER_ME
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
